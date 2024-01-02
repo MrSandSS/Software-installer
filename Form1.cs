@@ -31,37 +31,27 @@ namespace Software_installer
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            string msiafterburner = "https://msi.ru.com/Windows-10/MSI-Afterburner.exe";
-            Process.Start(msiafterburner);
+            Process.Start("https://msi.ru.com/Windows-10/MSI-Afterburner.exe");
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-            string aimp = "https://www.aimp.ru/?do=download.file&id=3";
-            Process.Start(aimp);
+            Process.Start("https://www.aimp.ru/?do=download.file&id=3");
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            string discord = "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86";
-            Process.Start(discord);
+            Process.Start("https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86");
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
         {
-            string amdadrenalin = "https://drivers.amd.com/drivers/installer/23.30/whql/amd-software-adrenalin-edition-23.12.1-minimalsetup-231205_web.exe";
-            Process.Start(amdadrenalin);
+            Process.Start("https://drivers.amd.com/drivers/installer/23.30/whql/amd-software-adrenalin-edition-23.12.1-minimalsetup-231205_web.exe");
         }
 
         private void geforceexperiencebutton_Click(object sender, EventArgs e)
         {
-            string geforceexperience = "https://ru.download.nvidia.com/GFE/GFEClient/3.27.0.120/GeForce_Experience_v3.27.0.120.exe";
-            Process.Start(geforceexperience);
-        }
-
-        private void label7_Click(object sender, EventArgs e)
-        {
-            
+            Process.Start("https://ru.download.nvidia.com/GFE/GFEClient/3.27.0.120/GeForce_Experience_v3.27.0.120.exe");
         }
 
         private void pictureBox2_Click_1(object sender, EventArgs e)
@@ -72,18 +62,12 @@ namespace Software_installer
 
         private void pictureBox1_Click_1(object sender, EventArgs e)
         {
-            string geforceexperience = "https://ru.download.nvidia.com/GFE/GFEClient/3.27.0.120/GeForce_Experience_v3.27.0.120.exe";
-            Process.Start(geforceexperience);
+            Process.Start("https://ru.download.nvidia.com/GFE/GFEClient/3.27.0.120/GeForce_Experience_v3.27.0.120.exe");
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             Process.Start("https://docs.google.com/forms/d/e/1FAIpQLSdUTeYOW-Mn5GNE1R_LwGQTrdqwRUrFBDd0A7AjgYjk3-Ffcg/viewform?usp=sf_link");
-        }
-
-        private void winrarlabel_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void winrarbutton_Click(object sender, EventArgs e)
