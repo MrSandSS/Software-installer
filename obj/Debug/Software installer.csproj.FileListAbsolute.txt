@@ -1,0 +1,7 @@
+C:\Users\MrSan\source\repos\Software installer\Software installer\bin\Debug\Software installer.exe.config
+C:\Users\MrSan\source\repos\Software installer\Software installer\bin\Debug\Software installer.exe
+C:\Users\MrSan\source\repos\Software installer\Software installer\bin\Debug\Software installer.pdb
+C:\Users\MrSan\source\repos\Software installer\Software installer\obj\Debug\Software installer.csproj.AssemblyReference.cache
+C:\Users\MrSan\source\repos\Software installer\Software installer\obj\Debug\Software installer.csproj.CoreCompileInputs.cache
+C:\Users\MrSan\source\repos\Software installer\Software installer\obj\Debug\Software installer.exe
+C:\Users\MrSan\source\repos\Software installer\Software installer\obj\Debug\Software installer.pdb
